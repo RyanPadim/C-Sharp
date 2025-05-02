@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\PI\obj\Debug\net8.0\PI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\PI\obj\Debug\net8.0\PI.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PI\obj\Debug\net8.0\PI.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PI\obj\Debug\net8.0\PI.csproj.CoreCompileInputs.cache
