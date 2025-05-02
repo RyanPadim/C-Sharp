@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\RecebeNome\bin\Debug\net8.0\RecebeNome.exe
+C:\Users\Administrator\Desktop\RecebeNome\bin\Debug\net8.0\RecebeNome.deps.json
+C:\Users\Administrator\Desktop\RecebeNome\bin\Debug\net8.0\RecebeNome.runtimeconfig.json
+C:\Users\Administrator\Desktop\RecebeNome\bin\Debug\net8.0\RecebeNome.dll
+C:\Users\Administrator\Desktop\RecebeNome\bin\Debug\net8.0\RecebeNome.pdb
+C:\Users\Administrator\Desktop\RecebeNome\obj\Debug\net8.0\RecebeNome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\RecebeNome\obj\Debug\net8.0\RecebeNome.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\RecebeNome\obj\Debug\net8.0\RecebeNome.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\RecebeNome\obj\Debug\net8.0\RecebeNome.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RecebeNome\obj\Debug\net8.0\RecebeNome.dll
+C:\Users\Administrator\Desktop\RecebeNome\obj\Debug\net8.0\refint\RecebeNome.dll
+C:\Users\Administrator\Desktop\RecebeNome\obj\Debug\net8.0\RecebeNome.pdb
+C:\Users\Administrator\Desktop\RecebeNome\obj\Debug\net8.0\RecebeNome.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\RecebeNome\obj\Debug\net8.0\ref\RecebeNome.dll
