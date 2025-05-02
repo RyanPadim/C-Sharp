@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Aula_08_soma\bin\Debug\net8.0\Aula_08_soma.exe
+C:\Users\Administrator\Desktop\Aula_08_soma\bin\Debug\net8.0\Aula_08_soma.deps.json
+C:\Users\Administrator\Desktop\Aula_08_soma\bin\Debug\net8.0\Aula_08_soma.runtimeconfig.json
+C:\Users\Administrator\Desktop\Aula_08_soma\bin\Debug\net8.0\Aula_08_soma.dll
+C:\Users\Administrator\Desktop\Aula_08_soma\bin\Debug\net8.0\Aula_08_soma.pdb
+C:\Users\Administrator\Desktop\Aula_08_soma\obj\Debug\net8.0\Aula_08_soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Aula_08_soma\obj\Debug\net8.0\Aula_08_soma.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Aula_08_soma\obj\Debug\net8.0\Aula_08_soma.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Aula_08_soma\obj\Debug\net8.0\Aula_08_soma.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Aula_08_soma\obj\Debug\net8.0\Aula_08_soma.dll
+C:\Users\Administrator\Desktop\Aula_08_soma\obj\Debug\net8.0\refint\Aula_08_soma.dll
+C:\Users\Administrator\Desktop\Aula_08_soma\obj\Debug\net8.0\Aula_08_soma.pdb
+C:\Users\Administrator\Desktop\Aula_08_soma\obj\Debug\net8.0\Aula_08_soma.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Aula_08_soma\obj\Debug\net8.0\ref\Aula_08_soma.dll
