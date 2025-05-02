@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Aula_07_primeiroTeste\bin\Debug\net8.0\Aula_07_primeiroTeste.exe
+C:\Users\Administrator\Desktop\Aula_07_primeiroTeste\bin\Debug\net8.0\Aula_07_primeiroTeste.deps.json
+C:\Users\Administrator\Desktop\Aula_07_primeiroTeste\bin\Debug\net8.0\Aula_07_primeiroTeste.runtimeconfig.json
+C:\Users\Administrator\Desktop\Aula_07_primeiroTeste\bin\Debug\net8.0\Aula_07_primeiroTeste.dll
+C:\Users\Administrator\Desktop\Aula_07_primeiroTeste\bin\Debug\net8.0\Aula_07_primeiroTeste.pdb
+C:\Users\Administrator\Desktop\Aula_07_primeiroTeste\obj\Debug\net8.0\Aula_07_primeiroTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Aula_07_primeiroTeste\obj\Debug\net8.0\Aula_07_primeiroTeste.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Aula_07_primeiroTeste\obj\Debug\net8.0\Aula_07_primeiroTeste.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Aula_07_primeiroTeste\obj\Debug\net8.0\Aula_07_primeiroTeste.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Aula_07_primeiroTeste\obj\Debug\net8.0\Aula_07_primeiroTeste.dll
+C:\Users\Administrator\Desktop\Aula_07_primeiroTeste\obj\Debug\net8.0\refint\Aula_07_primeiroTeste.dll
+C:\Users\Administrator\Desktop\Aula_07_primeiroTeste\obj\Debug\net8.0\Aula_07_primeiroTeste.pdb
+C:\Users\Administrator\Desktop\Aula_07_primeiroTeste\obj\Debug\net8.0\Aula_07_primeiroTeste.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Aula_07_primeiroTeste\obj\Debug\net8.0\ref\Aula_07_primeiroTeste.dll
