@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\FuncaoSub\bin\Debug\net8.0\FuncaoSub.exe
+C:\Users\Administrator\Desktop\FuncaoSub\bin\Debug\net8.0\FuncaoSub.deps.json
+C:\Users\Administrator\Desktop\FuncaoSub\bin\Debug\net8.0\FuncaoSub.runtimeconfig.json
+C:\Users\Administrator\Desktop\FuncaoSub\bin\Debug\net8.0\FuncaoSub.dll
+C:\Users\Administrator\Desktop\FuncaoSub\bin\Debug\net8.0\FuncaoSub.pdb
+C:\Users\Administrator\Desktop\FuncaoSub\obj\Debug\net8.0\FuncaoSub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\FuncaoSub\obj\Debug\net8.0\FuncaoSub.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\FuncaoSub\obj\Debug\net8.0\FuncaoSub.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\FuncaoSub\obj\Debug\net8.0\FuncaoSub.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FuncaoSub\obj\Debug\net8.0\FuncaoSub.dll
+C:\Users\Administrator\Desktop\FuncaoSub\obj\Debug\net8.0\refint\FuncaoSub.dll
+C:\Users\Administrator\Desktop\FuncaoSub\obj\Debug\net8.0\FuncaoSub.pdb
+C:\Users\Administrator\Desktop\FuncaoSub\obj\Debug\net8.0\FuncaoSub.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\FuncaoSub\obj\Debug\net8.0\ref\FuncaoSub.dll
