@@ -14,14 +14,6 @@ Compartilhar o progresso nos estudos de C#, com foco em:
 - Manipulação de arquivos
 - Criação de aplicações console e desktop
 
-## 🧠 Conteúdo
-
-- 📁 `01-HelloWorld` — Primeiro programa em C#
-- 📁 `02-VariaveisETipos` — Tipos de dados, conversões e entrada/saída
-- 📁 `03-CondicoesELoops` — `if`, `switch`, `while`, `for`
-- 📁 `04-POO` — Classes, objetos, herança, encapsulamento
-- 📁 `05-Projetos` — Aplicações simples e desafios práticos
-
 ## 🛠️ Tecnologias Utilizadas
 
 - Linguagem: **C#**
